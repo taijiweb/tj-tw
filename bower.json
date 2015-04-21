@@ -1,0 +1,24 @@
+{
+  "name": "jslab",
+  "version": "0.0.0",
+  "authors": [
+    "chaosim"
+  ],
+  "description": "javascript laboratory",
+  "main": "index.js",
+  "keywords": [
+    "javascript",
+    "laboratory"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.4"
+  }
+}
